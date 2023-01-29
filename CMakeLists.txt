@@ -3,4 +3,4 @@ project(ZLQCpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ZLQCpp main.cpp)
+add_executable(ZLQCpp revernumber.cpp)
